@@ -87,12 +87,11 @@ Z X C V B N M SPACE
 << → Backspace
 
 SPACE → Space bar
-
 ## 📁 Project Structure
-   📦 virtual-keyboard-hand-gesture
-    ┣ 📜 Virk.py
-    ┣ 📜 README.md
-    ┗ 🎥 working_demo.mp4
+📦 virtual-keyboard-hand-gesture
+┣ 📜 Virk.py
+┣ 📜 README.md
+┗ 🎥 working_demo.mp4
 
 ## ⚠️ Limitations
 
