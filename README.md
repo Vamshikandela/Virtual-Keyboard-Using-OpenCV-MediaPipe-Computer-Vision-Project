@@ -148,7 +148,7 @@ python Main.py
 
 👨‍💻 **Vamshi Kandela**  
 📊 Aspiring Data Scientist  
-👁️ Computer Vision Enthusiast
+👁️ Computer Vision Enthusiastic
 
 
 ## ⭐ Acknowledgements
