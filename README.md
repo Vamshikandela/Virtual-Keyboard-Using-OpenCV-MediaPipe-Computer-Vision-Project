@@ -72,7 +72,7 @@ Action	Gesture
 pip install opencv-python cvzone mediapipe pynput numpy
 
 3️⃣ Run the Application
-python Virk.py
+python MAin.py
 
 
 📌 Ensure your webcam is enabled and properly positioned.
