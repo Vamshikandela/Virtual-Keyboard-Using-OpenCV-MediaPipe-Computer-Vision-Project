@@ -54,7 +54,7 @@ Audio feedback on each key press (Windows)
 
 ## 🎮 Controls & Gestures
 ### 🖥️ Gesture Controls
-- Action	Gesture
+Action	Gesture
 - Hover on key	Move index finger tip over a key
 - Type character	Keep finger over key for 2 seconds
 - Backspace	Hover over << key
@@ -78,7 +78,7 @@ python Virk.py
 📌 Ensure your webcam is enabled and properly positioned.
 
 ## 📦 Required Modules & Supported Versions
-- Module	Supported Version
+Module	Supported Version
 - Python	3.9 – 3.11
 - opencv-python	4.8.1.78
 - cvzone	1.5.6
@@ -90,53 +90,58 @@ python Virk.py
 
 ## 🧠 How It Works (Code Logic)
 
-Webcam captures real-time video frames
+- Webcam captures real-time video frames
 
-Hand landmarks are detected using CVZone HandDetector
+- Hand landmarks are detected using CVZone HandDetector
 
-Index finger tip (landmark 8) is tracked
+- Index finger tip (landmark 8) is tracked
 
-Finger position is checked against key boundaries
+- Finger position is checked against key boundaries
 
-If finger stays on a key for 2 seconds, the key is triggered
+- If finger stays on a key for 2 seconds, the key is triggered
 
-Key press is simulated using pynput.keyboard.Controller
+- Key press is simulated using pynput.keyboard.Controller
 
-Typed text is displayed on screen
+- Typed text is displayed on screen
 
-Sound feedback is played using winsound.Beep()
+- Sound feedback is played using winsound.Beep()
 
 
 <img width="563" height="474" alt="image" src="https://github.com/user-attachments/assets/d7066db7-470a-4fe0-a3a4-aa7fcdff4e9c" />
 
 
 ## 📁 Project Structure
-📦 virtual-keyboard-hand-gesture
- ┣ 📜 Virk.py
- ┣ 📜 README.md
- ┗ 🎥 working_demo.mp4
+- **Virk.py**  
+  Main Python script containing the virtual keyboard logic using OpenCV, MediaPipe (CVZone), and hand gestures.
+
+- **README.md**  
+  Project documentation including description, setup instructions, features, and usage details.
+
+- **working_demo.mp4**  
+  Demo video showcasing the real-time working of the virtual keyboard.
+
 
 ## ⚠️ Limitations
 
-Typing speed depends on delay timing
+- Typing speed depends on delay timing
 
-Works best in good lighting conditions
+- Works best in good lighting conditions
 
-Designed for single-hand usage only
+- Designed for single-hand usage only
 
-Windows-only sound feedback
+- Windows-only sound feedback
 
 ## 🔮 Future Improvements
 
-Adjustable typing delay
+- Adjustable typing delay
 
-Multi-hand support
+- Multi-hand support
 
-Gesture-based click instead of time delay
+- Gesture-based click instead of time delay
 
-Mobile camera support
+- Mobile camera support
 
-Improved UI design
+- Improved UI design
 
 ## 👤 Author
 
