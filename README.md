@@ -72,7 +72,7 @@ Action	Gesture
 pip install opencv-python cvzone mediapipe pynput numpy
 
 3️⃣ Run the Application
-python MAin.py
+python Main.py
 
 
 📌 Ensure your webcam is enabled and properly positioned.
@@ -145,8 +145,8 @@ Module	Supported Version
 
 ## 👤 Author
 
-Vamshi Kandela
-Aspiring Data Analyst & Computer Vision Enthusiast
+**Vamshi Kandela**
+**Aspiring Data Scientist & Computer Vision Enthusiast**
 
 ## ⭐ Acknowledgements
 
