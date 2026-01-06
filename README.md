@@ -65,8 +65,8 @@ Action	Gesture
 
 ## 🚀 How to Run the Project
 1️⃣ Create Virtual Environment
-**py -3.10 -m venv venv**
-**venv\Scripts\activate**
+- **py -3.10 -m venv venv**
+- **venv\Scripts\activate**
 
 2️⃣ Install Required Dependencies
 pip install opencv-python cvzone mediapipe pynput numpy
@@ -78,13 +78,13 @@ python Main.py
 📌 Ensure your webcam is enabled and properly positioned.
 
 ## 📦 Required Modules & Supported Versions
-Module	Supported Version
-- Python	3.9 – 3.11
-- opencv-python	4.8.1.78
-- cvzone	1.5.6
-- mediapipe	0.10.9
-- numpy	1.24.4
-- pynput	1.7.6
+**Module	Supported Version**
+- **Python	3.9 – 3.11**
+- **opencv-python	4.8.1.78**
+- **cvzone	1.5.6**
+- **mediapipe	0.10.9**
+- **numpy	1.24.4**
+- **pynput	1.7.6**
 
 ⚠️ winsound works only on Windows OS.
 
