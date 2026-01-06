@@ -143,10 +143,13 @@ python Main.py
 
 - Improved UI design
 
+
 ## 👤 Author
 
-**Vamshi Kandela**
--**Aspiring Data Scientist & Computer Vision Enthusiast**
+👨‍💻 **Vamshi Kandela**  
+📊 Aspiring Data Scientist  
+👁️ Computer Vision Enthusiast
+
 
 ## ⭐ Acknowledgements
 
