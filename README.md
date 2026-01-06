@@ -146,7 +146,7 @@ python Main.py
 ## 👤 Author
 
 **Vamshi Kandela**
-- **Aspiring Data Scientist & Computer Vision Enthusiast**
+-**Aspiring Data Scientist & Computer Vision Enthusiast**
 
 ## ⭐ Acknowledgements
 
