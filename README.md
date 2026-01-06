@@ -56,17 +56,17 @@ Audio feedback on each key press (Windows)
 ### 🖥️ Gesture Controls
 Action	Gesture
 - Hover on key	Move index finger tip over a key
-- Type character	Keep finger over key for 2 seconds
+- Type character	Keep finger over key for **2** seconds
 - Backspace	Hover over << key
 - Space	Hover over SPACE key
-- Exit program	Press <b>q</b> on physical keyboard
+- Exit program	**Press q** on physical keyboard
 
 📌 Typing is based on time delay (pressDelay = 2 seconds) to prevent accidental presses.
 
 ## 🚀 How to Run the Project
 1️⃣ Create Virtual Environment
-py -3.10 -m venv venv
-venv\Scripts\activate
+**py -3.10 -m venv venv**
+**venv\Scripts\activate**
 
 2️⃣ Install Required Dependencies
 pip install opencv-python cvzone mediapipe pynput numpy
@@ -98,7 +98,7 @@ Module	Supported Version
 
 - Finger position is checked against key boundaries
 
-- If finger stays on a key for 2 seconds, the key is triggered
+- If finger stays on a **key for 2 seconds**, the key is **triggered**
 
 - Key press is simulated using pynput.keyboard.Controller
 
@@ -111,7 +111,7 @@ Module	Supported Version
 
 
 ## 📁 Project Structure
-- **Virk.py**  
+- **Main.py**  
   Main Python script containing the virtual keyboard logic using OpenCV, MediaPipe (CVZone), and hand gestures.
 
 - **README.md**  
