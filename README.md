@@ -25,11 +25,11 @@ Audio feedback on each key press (Windows)
 ## 🎮 Controls & Gestures
 ## 🖥️ Gesture Controls
 ### Action	Gesture
-Hover on key	Move index finger tip over a key
-Type character	Keep finger over key for 2 seconds
-Backspace	Hover over << key
-Space	Hover over SPACE key
-Exit program	Press q on physical keyboard
+   Hover on key	Move index finger tip over a key
+   Type character	Keep finger over key for 2 seconds
+   Backspace	Hover over << key
+   Space	Hover over SPACE key
+   Exit program	Press q on physical keyboard
 
 📌 Typing is based on time delay (pressDelay = 2 seconds) to prevent accidental presses.
 
@@ -51,12 +51,12 @@ python Virk.py
 
 ## 📦 Required Modules & Supported Versions
 ### Module	Supported Version
-Python	3.9 – 3.11
-opencv-python==4.8.1.78
-cvzone==1.5.6
-mediapipe==0.10.9
-numpy==1.24.4
-pynput==1.7.6
+   Python	3.9 – 3.11
+   opencv-python==4.8.1.78
+   cvzone==1.5.6
+   mediapipe==0.10.9
+   numpy==1.24.4
+   pynput==1.7.6
 
 ⚠️ winsound works only on Windows OS.
 
@@ -89,10 +89,10 @@ Z X C V B N M SPACE
 SPACE → Space bar
 
 ## 📁 Project Structure
-📦 virtual-keyboard-hand-gesture
- ┣ 📜 Virk.py
- ┣ 📜 README.md
- ┗ 🎥 working_demo.mp4
+   📦 virtual-keyboard-hand-gesture
+    ┣ 📜 Virk.py
+    ┣ 📜 README.md
+    ┗ 🎥 working_demo.mp4
 
 ## ⚠️ Limitations
 
